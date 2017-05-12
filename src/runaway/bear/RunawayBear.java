@@ -7,7 +7,7 @@ package runaway.bear;
 
 /**
  *
- * @author chenmi
+ * @author chenmin Test lololoooooo
  */
 public class RunawayBear {
 
